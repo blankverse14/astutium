@@ -1,0 +1,157 @@
+#container {
+	background-color: rgb(227,231,233);
+	margin: 1px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-width: 1px;
+	font-family: arial;
+}
+
+#inner {
+	background-color: white;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+#content {
+	background-color: rgb(245,245,245);
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#address{
+    
+    margin-left: 70px;
+}
+
+#city{
+    margin-left: 150px;
+}
+
+#county{
+    margin-left: 85px;
+}
+
+#post{
+    margin-left: 102px;
+}
+
+#country{
+    margin-left: 120px;
+    width: 175px;
+    height: 20px; 
+    color:gray;
+}
+
+#customer{
+    margin-left: 30px;          
+    margin-top: 10px;
+    width: 175px;
+    height: 20px; 
+    color:gray;
+}
+
+#find{
+    margin-left: 30px;          
+    margin-top: 10px;
+    width: 175px;
+    height: 20px; 
+    color:gray;
+}
+
+#number{
+    margin-left: 60px;
+}
+
+#submit{
+    text-align: center;
+    padding: 15px;
+}
+
+#firstLine{
+    display: inline;
+}
+
+#back{
+    margin-left: -160px;
+    margin-top: 30px;
+}
+
+#next{
+    margin-left: 660px;
+    margin-top: -20px;
+}
+
+#hostLabel{
+    margin-top: 20px;
+}
+
+#regPeriod{
+    margin-top: 16px;
+}
+
+#select{
+    margin-top: 10px;
+    width:175px;
+    height: 23px;
+    color:gray;
+}
+
+#companyID{
+    margin-top: 20px;
+    margin-left: 0px;
+}
+
+#regName{
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+#optOut{
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+#nm{
+    margin-top: 10px;
+    width: 400px;
+}
+
+label{
+    float: left;
+    width: 150px;
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 12px;
+    margin-left: 0px;
+    clear: left;
+    font-family: Arial;
+}
+
+form{
+    display: inline-block;
+}
+
+input{ 
+    margin-top: 12px;
+    margin-left: 30px; 
+    margin-right: 10px; 
+}
+
+fieldset{
+    margin-top: 50px;
+    margin-left: 0px;
+    width: 750px;    
+    border-style: solid;
+}
